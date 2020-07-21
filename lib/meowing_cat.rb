@@ -1,4 +1,2 @@
 class Cat 
-  def 
   
-end 
